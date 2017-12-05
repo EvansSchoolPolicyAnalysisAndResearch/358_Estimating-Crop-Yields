@@ -11,4 +11,5 @@ Code is currently available for 5 survey instruments:
 
 The .do files include all of the code used to generate crop yield estimates from the raw survey data for a given survey wave. Click on the green "Clone or Download" button and choose "Download zip" to download a copy of the .do files, and follow the instructions at the top of the .do files to download the raw data, update the global filepaths, and run the code. 
 
-If you use or modify our code, please cite us using the provided citation.
+If you use or modify our code, please cite us using the provided citation. 
+[![DOI](https://zenodo.org/badge/113230567.svg)](https://zenodo.org/badge/latestdoi/113230567)
