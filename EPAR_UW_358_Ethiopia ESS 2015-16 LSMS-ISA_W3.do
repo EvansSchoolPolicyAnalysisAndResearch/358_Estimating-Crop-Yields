@@ -11,7 +11,7 @@
 
 *Data source
 *-----------
-*The Tanzania National Panel Survey was collected by the Ethiopia Central Statistical Agency (CSA) 
+*The Ethiopia Socioeconomic Survey was collected by the Ethiopia Central Statistical Agency (CSA) 
 *and the World Bank's Living Standards Measurement Study - Integrated Surveys on Agriculture(LSMS - ISA)
 *The data were collected over the period September to September to December 2015, and February to April 2016. 
 *All the raw data, questionnaires, and basic information documents are available for downloading free of charge at the following link
